@@ -1,6 +1,3 @@
-    ; __UNICODE__ equ 1           ; uncomment to enable UNICODE build
-    ; UNICODE_EDIT equ 1          ; uncomment for UNICODE edit control
-
     .686p                       ; create 32 bit code
     .mmx                        ; enable MMX instructions
     .xmm                        ; enable SSE instructions
